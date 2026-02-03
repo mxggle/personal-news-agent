@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "active": true
+    },
+    {
+      "name": "theverge",
+      "url": "https://www.theverge.com/",
+      "active": true
+    }
+  ]
+}

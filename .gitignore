@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+settings.json
+obsidian_vault
+.DS_Store
