@@ -15,7 +15,7 @@ An autonomous Personal News Briefing Agent built with pi-mono AI toolkit. This a
 
 1. Clone the repository:
    ```bash
-   git clone git@github:mxggle/personal-news-agent.git
+   git clone git@github.com:mxggle/personal-news-agent.git
    cd personal-news-agent
    ```
 
